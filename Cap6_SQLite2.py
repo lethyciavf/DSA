@@ -86,7 +86,7 @@ cria_tabela()  #Podemos deixar esse pois só criara um novo CASO NÃO EXISTA
 #leitura_colunas()
 #atualiza_dados()
 #remove_dados()
-gera_grafico()
+#gera_grafico()
 
 #Manter sempre aqui, uma boa pratica
 cursor.close()
